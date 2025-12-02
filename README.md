@@ -1,8 +1,8 @@
-# SSAFY-AI-Challenge  
+## SSAFY-AI-Challenge  
 이미지 기반 4지선다형 문제 해결을 위한 AI 모델 개발 프로젝트
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0609ff1e-c0d8-4665-92a9-8c6b7a6e6607" width="30%" />
-  <img src="https://github.com/user-attachments/assets/24aa6557-35db-459d-bfa1-d61fe6982bf6" width="30%" />
-  <img src="https://github.com/user-attachments/assets/3f1f0027-3d21-461d-bd2c-1dc13ed5b9b4" width="30%" />
+<img width="473" height="676" alt="image" src="https://github.com/user-attachments/assets/ddf1eae8-9476-47c2-8d5d-17a4e14a4487" />
+<img width="518" height="690" alt="image1" src="https://github.com/user-attachments/assets/7147d1d8-0c4c-412d-bd87-2743ef41d954" />
+<img width="582" height="884" alt="image2" src="https://github.com/user-attachments/assets/a4e918b1-d180-424b-bca2-ad02d99aa4e1" />
 </p>
