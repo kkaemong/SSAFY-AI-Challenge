@@ -207,4 +207,5 @@ worker 수·batch size 조정)로 환경 충돌 제거
 
 짧은 4일간의 대회 기간 동안 모델 구조와 학습 최적화 전략을 조합하여  
 실제 리더보드 기준으로 의미 있는 성능 향상을 달성하였습니다.
+
 <img width="1070" height="71" alt="스크린샷 2025-10-26 오후 7 46 37" src="https://github.com/user-attachments/assets/0bfa916b-c680-4c27-90bd-93eed793dcfd" />
